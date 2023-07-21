@@ -76,9 +76,10 @@ Setelah mengikuti langkah-langkah di atas, Anda telah berhasil menginstal Golang
 XAMPP adalah paket pengembangan yang populer digunakan untuk membuat lingkungan pengembangan web di sistem operasi Windows. Untuk mengkonfigurasi database MySQL menggunakan XAMPP, ikuti langkah-langkah berikut:
 1. Pastikan Anda telah mengunduh dan menginstal XAMPP dari situs resmi XAMPP (https://www.apachefriends.org/index.html) sesuai dengan versi sistem operasi Windows Anda.
  
- ![image](https://github.com/juliardimegah/Aplikasi-CRUD-dengan-Golang-MySQL-dan-HMTL-Memahami-Konsep-dan-Implementasi-Praktis/assets/98504755/ffb798f2-337e-4b14-ac1a-97e94fe1ae8a)
- 
+ ![image](https://github.com/juliardimegah/Aplikasi-CRUD-dengan-Golang-MySQL-dan-HMTL-Memahami-Konsep-dan-Implementasi-Praktis/assets/98504755/5d4358da-53f7-4eb9-9b29-b68f95260530)
+
 Gambar 2.8 Halaman Download XAMPP
+
 2. Setelah menginstal XAMPP, buka XAMPP Control Panel. Anda dapat melakukannya dengan menavigasi ke direktori instalasi XAMPP (biasanya di `C:\xampp`) dan menjalankan file `xampp-control.exe`.
 3. Pada XAMPP Control Panel, Anda akan melihat daftar modul yang tersedia. Pastikan modul MySQL diaktifkan dengan mengklik tombol "Start" di sampingnya. Ini akan menjalankan server MySQL.
 4. Setelah server MySQL berjalan, klik tombol "Admin" di sebelah modul MySQL untuk membuka phpMyAdmin di browser Anda. PhpMyAdmin adalah alat administrasi database MySQL yang akan membantu kita mengelola basis data.
